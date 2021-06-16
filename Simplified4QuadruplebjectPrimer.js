@@ -19,7 +19,7 @@ const {essence, eidos, space, time} = {realWhiteHouse, {{ ...realQualities}}, wh
 
 const quadrupleObjectWhiteHouse = {
 
-	essence: realWhiteHouse + real object 
+	essence: realWhiteHouse,
 
 	eidos: {{ ...realQualities}},
 
